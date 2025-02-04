@@ -5,3 +5,4 @@ int main()
     scanf("enter integer",a);
     printf("%d",a);
 }
+return 0;
