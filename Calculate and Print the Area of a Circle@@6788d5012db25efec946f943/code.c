@@ -5,6 +5,6 @@ int main(){
     float r,area;
     scanf("%f",&r);
     area=PI*r*r;
-    printf("Area: %.4f",area);
+    printf("Area: %.3f",area);
     return 0;
 }
