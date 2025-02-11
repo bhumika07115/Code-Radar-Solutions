@@ -1,6 +1,6 @@
 // Your code here...
 #include<stdio.h>
-#define pi=3.14159
+#define pi=3.14159;
 int main(){
     float pi,r,area;
     scanf("%f",&r);
