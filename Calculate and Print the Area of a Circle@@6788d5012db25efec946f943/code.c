@@ -2,7 +2,7 @@
 #include<stdio.h>
 #define PI 3.14159
 int main(){
-    float PI,r,area;
+    float r,area;
     scanf("%f",&r);
     area=PI*r*r;
     printf("Area: %.4f",area);
